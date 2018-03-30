@@ -3,22 +3,17 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: 'umbilical',
+    title: 'Mark Benson Nastor\'s Personal Site',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: 'Nuxt.js project' }
+      { hid: 'description', name: 'description', content: 'Mark Benson Nastor\'s Personal Site' }
     ],
     link: [
       { 
         rel: 'icon', 
         type: 'image/x-icon',
         href: '/favicon.ico' 
-      },
-      { 
-        rel: 'stylesheet',
-        type: 'text/css',
-        href: '//code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css'
       }
     ]
   },
